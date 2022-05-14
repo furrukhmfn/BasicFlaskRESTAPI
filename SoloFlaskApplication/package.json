@@ -1,0 +1,19 @@
+{
+    "name": "Demo_App",
+    "version": "1.0.0",
+    "description": "Flask Application - Python",
+    "main": "app.js",
+    "scripts": {
+    "start": "node app.js"
+  },
+    "repository": {
+    "type": "git",
+    "url": ""
+  },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+    "url": ""
+  },
+    "homepage": ""
+  }
